@@ -39,3 +39,5 @@ public class Lambda_lesson1 {
         return file.listFiles(File::isDirectory);
     }*/
 }
+
+    git branch --set-upstream WorkBranch origin/WorkBranch
